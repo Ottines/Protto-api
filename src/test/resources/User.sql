@@ -1,0 +1,3 @@
+INSERT INTO t_user (user_id, user_first_name, user_last_name, user_email, user_password) VALUES (1, 'Ottman', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
+INSERT INTO t_user (user_id, user_first_name, user_last_name, user_email, user_password) VALUES (2, 'William', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
+INSERT INTO t_user (user_id, user_first_name, user_last_name, user_email, user_password) VALUES (3, 'Alexandre', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
