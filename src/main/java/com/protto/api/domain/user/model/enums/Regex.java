@@ -1,4 +1,4 @@
-package com.protto.api.domain.person.model.enums;
+package com.protto.api.domain.user.model.enums;
 
 public class Regex {
 

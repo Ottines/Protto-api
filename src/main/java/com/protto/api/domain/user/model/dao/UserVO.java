@@ -1,6 +1,6 @@
-package com.protto.api.domain.person.model.dao;
+package com.protto.api.domain.user.model.dao;
 
-public record PersonVO(Long id,
+public record UserVO(Long id,
                        String firstName,
                        String lastName,
                        String email) {
