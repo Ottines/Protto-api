@@ -50,7 +50,7 @@ class UserServiceTest {
 
     @Test
     @Sql("/User.sql")
-    void whenFindUserById_thenShouldExpectGoodPerson() {
+    void whenFindUserById_thenShouldExpectGoodUser() {
         UserVO userVO = userService.findById(2L);
 
         assertThat(userVO.firstName()).isEqualTo("William");

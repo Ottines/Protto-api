@@ -21,7 +21,7 @@ class UserMapperTest {
             .build();
 
     @Test
-    void givenUserEntity_whenMapToPersonVO_thenShouldExpectSameVO() {
+    void givenUserEntity_whenMapToUserVO_thenShouldExpectSameVO() {
         UserVO p = userMapper.entityToUserVO(userEntity);
 
         assertThat(p.id()).isEqualTo(userEntity.getId());
