@@ -1,0 +1,3 @@
+INSERT INTO t_person (person_id, person_first_name, person_last_name, person_email, person_password) VALUES (1, 'Ottman', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
+INSERT INTO t_person (person_id, person_first_name, person_last_name, person_email, person_password) VALUES (2, 'William', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
+INSERT INTO t_person (person_id, person_first_name, person_last_name, person_email, person_password) VALUES (3, 'Alexandre', 'Becuwe', 'ottinestv@gmail.com', 'Tototo77');
